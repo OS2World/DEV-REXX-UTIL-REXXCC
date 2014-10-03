@@ -1,0 +1,11 @@
+REXXCC 3.21 - a tiny REXX "compiler" 
+              for OS/2 REXX programs.
+
+REXXCC "compiles" REXX programs by 
+substituting the source code with 
+any text. 
+REXXCC "compress" REXX programs by 
+deleting all comments, superfluous 
+whitespaces and CR/LFs.
+
+Freeware by Bernd Schemmer 
